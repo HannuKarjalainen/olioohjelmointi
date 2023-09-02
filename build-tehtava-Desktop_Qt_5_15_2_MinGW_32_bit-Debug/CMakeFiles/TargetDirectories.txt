@@ -1,0 +1,7 @@
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/tehtava.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install/local.dir
+C:/Koulu/olioohjelmointi/build-tehtava-Desktop_Qt_5_15_2_MinGW_32_bit-Debug/CMakeFiles/install/strip.dir
